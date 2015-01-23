@@ -22,4 +22,8 @@
     // Update the view, if already loaded.
 }
 
+- (void)getGitGetter {
+    NSLog(@"https://github.com/jfbenoit/GitFun");
+}
+
 @end
